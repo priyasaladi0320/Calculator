@@ -337,12 +337,6 @@ function power() {
 
 
 
-
-
-
-
-
-
 table {
     border: 1px solid black;
     margin-left: auto;
@@ -373,24 +367,6 @@ input[type="text"] {
 display {
     text-align: left;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
